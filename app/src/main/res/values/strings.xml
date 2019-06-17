@@ -86,10 +86,7 @@
     <string name="ISO_1000">1000</string>
     <string name="ISO_1200">1200</string>
     <string name="night_mode">Night Mode</string>
-    <string name="enable_appear_on_top">Allow Appear On Top permission</string>
     <string name="lets_go">Let\'s Go</string>
-    <string name="background_support">Background Support</string>
-    <string name="background_support_summary">Enable CLI background support</string>
     <string name="camera">Camera</string>
     <string name="pro_camera">Pro Camera</string>
     <string name="pro_camera_summary">Remove Shutter Speed and ISO Limitations</string>
