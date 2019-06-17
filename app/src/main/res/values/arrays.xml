@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="shutter_time_value">
+        <item>@string/SHUTTER_SPEED_0</item>
+        <item>@string/SHUTTER_SPEED_1</item>
+        <item>@string/SHUTTER_SPEED_2</item>
+        <item>@string/SHUTTER_SPEED_3</item>
+        <item>@string/SHUTTER_SPEED_4</item>
+        <item>@string/SHUTTER_SPEED_5</item>
+        <item>@string/SHUTTER_SPEED_6</item>
+        <item>@string/SHUTTER_SPEED_7</item>
+        <item>@string/SHUTTER_SPEED_8</item>
+        <item>@string/SHUTTER_SPEED_9</item>
+        <item>@string/SHUTTER_SPEED_10</item>
+        <item>@string/SHUTTER_SPEED_11</item>
+        <item>@string/SHUTTER_SPEED_12</item>
+        <item>@string/SHUTTER_SPEED_13</item>
+        <item>@string/SHUTTER_SPEED_14</item>
+        <item>@string/SHUTTER_SPEED_15</item>
+        <item>@string/SHUTTER_SPEED_16</item>
+        <item>@string/SHUTTER_SPEED_17</item>
+        <item>@string/SHUTTER_SPEED_18</item>
+        <item>@string/SHUTTER_SPEED_19</item>
+        <item>@string/SHUTTER_SPEED_20</item>
+        <item>@string/SHUTTER_SPEED_21</item>
+        <item>@string/SHUTTER_SPEED_22</item>
+        <item>@string/SHUTTER_SPEED_23</item>
+        <item>@string/SHUTTER_SPEED_24</item>
+        <item>@string/SHUTTER_SPEED_25</item>
+        <item>@string/SHUTTER_SPEED_26</item>
+        <item>@string/SHUTTER_SPEED_27</item>
+        <item>@string/SHUTTER_SPEED_28</item>
+        <item>@string/SHUTTER_SPEED_29</item>
+        <item>@string/SHUTTER_SPEED_30</item>
+        <item>@string/SHUTTER_SPEED_31</item>
+        <item>@string/SHUTTER_SPEED_32</item>
+        <item>@string/SHUTTER_SPEED_33</item>
+        <item>@string/SHUTTER_SPEED_34</item>
+        <item>@string/SHUTTER_SPEED_35</item>
+        <item>@string/SHUTTER_SPEED_36</item>
+        <item>@string/SHUTTER_SPEED_37</item>
+        <item>@string/SHUTTER_SPEED_38</item>
+        <item>@string/SHUTTER_SPEED_39</item>
+        <item>@string/SHUTTER_SPEED_40</item>
+        <item>@string/SHUTTER_SPEED_41</item>
+        <item>@string/SHUTTER_SPEED_42</item>
+        <item>@string/SHUTTER_SPEED_43</item>
+        <item>@string/SHUTTER_SPEED_44</item>
+        <item>@string/SHUTTER_SPEED_45</item>
+        <item>@string/SHUTTER_SPEED_46</item>
+        <item>@string/SHUTTER_SPEED_47</item>
+        <item>@string/SHUTTER_SPEED_48</item>
+        <item>@string/SHUTTER_SPEED_49</item>
+        <item>@string/SHUTTER_SPEED_50</item>
+        <item>@string/SHUTTER_SPEED_51</item>
+        <item>@string/SHUTTER_SPEED_52</item>
+        <item>@string/SHUTTER_SPEED_53</item>
+        <item>@string/SHUTTER_SPEED_54</item>
+        <item>@string/SHUTTER_SPEED_55</item>
+        <item>@string/SHUTTER_SPEED_56</item>
+    </array>
+    <array name="iso_value">
+        <item>@string/ISO_50</item>
+        <item>@string/ISO_60</item>
+        <item>@string/ISO_70</item>
+        <item>@string/ISO_80</item>
+        <item>@string/ISO_90</item>
+        <item>@string/ISO_100</item>
+        <item>@string/ISO_125</item>
+        <item>@string/ISO_150</item>
+        <item>@string/ISO_200</item>
+        <item>@string/ISO_300</item>
+        <item>@string/ISO_400</item>
+        <item>@string/ISO_500</item>
+        <item>@string/ISO_600</item>
+        <item>@string/ISO_700</item>
+        <item>@string/ISO_800</item>
+        <item>@string/ISO_1000</item>
+        <item>@string/ISO_1200</item>
+        <item>@string/ISO_1600</item>
+        <item>@string/ISO_3200</item>
+    </array>
+
+    <array name="shutter_speed_label_step_array">
+        <item>@null</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </array>
+
+    <array name="iso_label_step_array">
+        <item>@null</item>
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+        <item>12</item>
+        <item>15</item>
+        <item>18</item>
+    </array>
+
+</resources>

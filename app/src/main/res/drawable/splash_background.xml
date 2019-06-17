@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+            android:opacity="opaque">
+    <item android:drawable="@color/accentColor"/>
+    <item android:id="@+id/launchscreens_product_logo">
+        <color android:color="@color/accentColor"/>
+    </item>
+</layer-list>
